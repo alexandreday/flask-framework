@@ -3,5 +3,6 @@ bokeh
 dill
 flask
 jinja2
+numpy
 pip
 simplejson
